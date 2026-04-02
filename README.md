@@ -20,13 +20,6 @@ Soy un futuro ingeniero enfocado en la arquitectura, gestión y seguridad de red
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-![Stats de Joseph](https://github-readme-stats.vercel.app/api?username=orrorque&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=orrorque&layout=compact&theme=radical)
-
----
-
 ### 📫 Contacto:
 - **LinkedIn:** 
 - **Email:** Josephorrorque17@gmail.com
