@@ -10,7 +10,6 @@ Soy un futuro ingeniero enfocado en la arquitectura, gestión y seguridad de red
 
 **🌐 Redes y Conectividad:**
 ![Cisco](https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP--IP-FF6600?style=for-the-badge&logo=codepen&logoColor=white)
 
 **💻 Lenguajes y Otros:**
